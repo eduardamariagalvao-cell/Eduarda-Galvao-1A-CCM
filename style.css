@@ -5,4 +5,16 @@ body{
 header{
     background-color: paleturquoise;
     height: 35px;
+    margin-left: -20px;
+    margin-right: -20px;
+
+
+
+
 }
+        header h3{
+            padding-left: 15px;
+            color: darkblue;
+            text-align: center;
+            font-size: 30px;
+        }

@@ -27,3 +27,23 @@ header{
             text-align: center;
             font-size: 30px;
         }
+
+nav ul{
+    list-style: none;
+    margin: 0;
+    padding:0;
+    display: flex;
+}
+nav ul li{
+    margin-left: 20px;
+    font-size: 20px;
+}
+
+ nav ul aheaderli {
+    color: darkblue;
+    text-decoration: none;
+    transition: color 0.5s;
+}
+header nav ul li a:hover{
+    color: pink;
+}
